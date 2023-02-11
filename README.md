@@ -3,9 +3,9 @@
 </h1>
 
 <h1 align='center'>
-  <img src="./assets/screeshot.png" />
+  <img src="./assets/screenshot.png" />
 </h1>
-<h1 align='center'><a href="">See the site</a></h1>
+<h1 align='center'><a href="https://my-finances-zeta.vercel.app/">See the site</a></h1>
 
 ## 📕 About
 
